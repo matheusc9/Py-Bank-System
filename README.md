@@ -5,7 +5,7 @@
 
 ## Descrição
 
-**PyBankSystem** é um sistema bancário simples desenvolvido em Python que simula operações básicas de uma conta bancária. Este projeto foi criado com o objetivo de demonstrar habilidades em programação orientada a objetos, manipulação de dados e desenvolvimento de aplicações de console.
+**PyBankSystem** é uma simulação pré-definida de um "sistema bancário" simples desenvolvido em Python que simula operações básicas de uma conta bancária. Este projeto foi criado com o objetivo de praticar habilidades em programação orientada a objetos, manipulação de dados e desenvolvimento de aplicações de console.
 
 O sistema permite criar contas, realizar depósitos, saques, transferências, consultar saldos e visualizar o histórico de transações. É ideal para estudantes e desenvolvedores que desejam praticar conceitos fundamentais de programação.
 
