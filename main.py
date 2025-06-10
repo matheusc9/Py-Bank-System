@@ -2,7 +2,7 @@
 
 """
 PyBankSystem - Sistema bancário simples em Python
-Autor: Matheus Camargo (Dev Junior)
+Autor: Matheus Camargo
 GitHub: https://github.com/matheusc9
 Data: 21/05/2025
 
